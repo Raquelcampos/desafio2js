@@ -11,7 +11,7 @@ let mesAniversario = "Janeiro";
 if((mesAniversario === "Janeiro") || (mesAniversario === "Dezembro")){
     console.log("Você faz aniversário no verão");
 }else{
-    console.log("'infelizemnte', não foi dessa vez")
+    console.log("'infelizmente', não foi dessa vez")
 }
 
 
